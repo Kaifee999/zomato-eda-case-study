@@ -39,7 +39,7 @@ The *“Zomato Restaurant Analysis for Consumer Behavior and Service Optimizatio
 
 ## 🔗 View Notebook
 - [Zomato EDA Notebook](zomato_case_study.ipynb)
-- [HTML Version](zomato_case_study.html)
+- [HTML Version]([zomato_case_study.html](https://github.com/Kaifee999/zomato-eda-case-study/blob/main/Zomato%20Data%20Analysis%20Project.html))
 
 ## 📬 Contact
 Feel free to connect or explore more projects:

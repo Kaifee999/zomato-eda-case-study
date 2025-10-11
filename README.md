@@ -53,5 +53,5 @@ The *“Zomato Restaurant Analysis for Consumer Behavior and Service Optimizatio
 
 ## 📬 Contact
 Feel free to connect or explore more projects:
-- [LinkedIn](your-linkedin-url)
-- [Portfolio](your-portfolio-url)
+- [LinkedIn](https://www.linkedin.com/in/kaifee-madar/)
+- [Portfolio](https://www.datascienceportfol.io/kaifeemadar999)

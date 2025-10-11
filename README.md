@@ -38,7 +38,7 @@ This project explores customer behavior and restaurant dynamics using Zomato’s
 The *“Zomato Restaurant Analysis for Consumer Behavior and Service Optimization”* case study underscores the importance of data in understanding customer preferences. By analyzing restaurant types, order modes, ratings, and spending behavior, Zomato can tailor its services to meet consumer expectations, enhance user satisfaction, and strengthen its position in a competitive food delivery market.
 
 ## 🔗 View Notebook
-- [Zomato EDA Notebook](zomato_case_study.ipynb)
+- [Zomato EDA Notebook]([zomato_case_study.ipynb](https://github.com/Kaifee999/zomato-eda-case-study/blob/main/Zomato%20Data%20Analysis%20Project.ipynb))
 - [HTML Version]([zomato_case_study.html](https://github.com/Kaifee999/zomato-eda-case-study/blob/main/Zomato%20Data%20Analysis%20Project.html))
 
 ## 📬 Contact
